@@ -1,0 +1,59 @@
+.search{
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.plus{
+    height: 23px;
+    margin-top: -1px;
+    color: white;
+
+}
+
+.pregistrar{
+    font-size: 100%;
+    color: #7F7F7F;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-right: 10px;
+    background-color:aquamarine; 
+}
+
+.icosexo{
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 5px;
+    margin-top: 4px;
+}
+
+.icolist{
+    border:#7F7F7F;
+    height: 27px;
+    margin-left: 8px;
+    margin-right: 5px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+
+.filatabla{
+    cursor: pointer;
+}
+
+/* default (flecha)
+crosshair (cruz)
+e-resize (flecha que apunta a la derecha)
+hand (mano)
+help (signo de pregunta)
+move (cruz con flechas en los extremos)
+n-resize (flecha que apunta hacia arriba)
+ne-resize (flecha que apunta al noreste)
+nw-resize (flecha que apunta al noroeste)
+pointer (mano)
+s-resize (flecha que apunta hacia abajo)
+se-resize (flecha que apunta hacia el sudeste)
+sw-resize (flecha que apunta hacia el sudoeste)
+text (I-beam)
+w-resize (flecha que apunta a la izquierda)
+wait (reloj de arena) */

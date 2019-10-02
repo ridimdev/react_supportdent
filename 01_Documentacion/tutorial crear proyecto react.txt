@@ -1,0 +1,14 @@
+1.instalar node
+2.instalar yarn
+3.abrir terminal
+4.ubicarse en la carpeta donde se desea crear el proyecto
+5.create-react-app nombreapp
+6.yarn add reactstrap
+7.yarn add react-transition-group
+8.yarn add bootstrap
+9.yarn add firebase
+10.yarn add moment
+11.en index.js incluir: import 'bootstrap/dist/css/bootstrap.css';
+12.en App.js incluir : import { Container, Row, Col, ...(todos los componentes que vaya a usar)... } from 'reactstrap';
+
+- Existe un modelo de Reactstrap en https://gist.github.com/Thomas-Smyth/006fd507a7295f17a8473451938f9935

@@ -1,0 +1,13 @@
+.logo{
+    height: 30px;
+    margin-right: 5px;
+}
+.user{
+    height: 21px;
+    margin-right: 5px;
+    margin-top: -3px;
+}
+
+#txtJumbo{
+    font-size: 280%;
+}

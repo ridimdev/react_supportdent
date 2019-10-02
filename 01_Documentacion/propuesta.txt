@@ -1,0 +1,11 @@
+propuesta Carla
+Curso React
+
+Semana1: Aprender React y Firebase
+Semana 2: Modulo de Historia Clínica
+cuentas, odontograma, plan de tratamiento
+tratamientos
+Semana 3 : Modulo de Citas
+Semana 4: Pruebas y Validaciones
+
+propuestas
